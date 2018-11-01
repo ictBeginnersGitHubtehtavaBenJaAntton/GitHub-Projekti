@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    
+
+    <main>
+        <div>
+            <a href="index.html">Koti</a>
+        </div>
+        <img src="https://cdn8.littlethings.com/app/uploads/2017/05/cute-dog-pug-600x600.jpg" 
+             style="max-height: 200px; max-width: 200px" alt="Kuva ei ole saatavilla">
+        <div>
+            <h3>Mistäkö on kyse??</h3>
+            <h4>No kysehän on siitä että ruvetaan!!</h4>
+            <ul>
+                <li>K</li>
+                <li>O</li>
+                <li>O</li>
+                <li>D</li>
+                <li>A</li>
+                <li>A</li>
+            </ul>
+        </div>
+    </main>
+    <footer>
+        &copy; 2018 ICT Beginners Ben&Anton Oy
+    </footer>
+</body>
+</html>
